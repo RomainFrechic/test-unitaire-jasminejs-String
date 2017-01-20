@@ -1,7 +1,13 @@
 {
+<<<<<<< HEAD
   "name": "StringCalculatorJs",
   "version": "0.0.1",
   "description": "Coding Dojo StringCalculator",
+=======
+  "name": "FizzBuzzJs",
+  "version": "0.0.1",
+  "description": "Coding Dojo FizzBuzz",
+>>>>>>> 41956c6d08436a984748eee113c671a7954e0d2e
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
