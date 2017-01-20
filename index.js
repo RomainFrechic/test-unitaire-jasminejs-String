@@ -1,2 +1,2 @@
-var FizzBuzz = require('./lib/FizzBuzz').FizzBuzz;
+var FizzBuzz = require('./lib/fizzBuzz').FizzBuzz;
 FizzBuzz();
